@@ -1,4 +1,4 @@
-PyQt5=5.15.7
-sqlite3=3.39.3
-sys=3.39.3
-datetime=3.39.3
+PyQt5==5.15.7
+sqlite3==3.39.3
+sys==3.39.3
+datetime==3.39.3
